@@ -1,3 +1,7 @@
 Cambios en un lugar de la mancha
 de cuyo nombre no ...
+<<<<<<< HEAD
 nacio
+=======
+....
+>>>>>>> feature/pruebas2
